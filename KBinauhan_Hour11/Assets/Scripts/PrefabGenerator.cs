@@ -20,5 +20,15 @@ public class PrefabGenerator : MonoBehaviour
                Instantiate(prefab, transform.position, transform.rotation);
           }
       }
+      
+      int lampSpawns = 10;
+      void Start()
+      {
+            for(int x = 0; x < lampSpawns; x++)
+            {
+                Instantiate(prefab); prefab.transform.Translate(5f, 0f, 0f);
+            }
+      }
+
 
 }

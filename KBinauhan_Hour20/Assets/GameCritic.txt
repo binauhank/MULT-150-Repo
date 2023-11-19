@@ -1,0 +1,14 @@
+1. Is the game too easy or hard? Give 3 unique reasons why it is easy or hard.
+I personally feel that the game is too easy in its base state. The obstacles are very easy to dodge due to how sparse and small they are, so they aren't offering much of a problem to the player. It's very easy to recover after being hit and regain the lost time due to the entire game slowing down. As well as this, the time rewards and punishments feel very forgiving, making it likely to go on incredibly long runs.
+
+2. What 3 changes would you do to make it easier or harder?
+A change that could make the game harder is adding a variety of speeds for the obstacles, adding a layer of chaos and unpredictability to the play area that needs to be kept up with. Another adjustment that can be made to increase the difficulty is more obstacle spawns for the player to keep track of and dodge. Lastly, something that can be added to the game is balancing the time rewards/punishments so that they are harsher and have a larger impact on how long the player can go on for.
+
+3. List three things that would give it a "wow" factor.
+To add a "wow" factor, I think that the shape and size of obstacles could be randomized so that the player has to maneuver around more than just a simple square. As well as that, differently colored powerups could be added that all have various effects on the game. Examples could be one that slows down the powerups/obstacles, one that clears out all obstacles for 2 seconds, etc. Another mechanic that can be added is a longer cooldown on phasing out, so that the player has to think more about when to use it.
+
+4. What parts of the game are fun? 3 items
+I like the fast pace of the game, it doesn't really feel sluggish at any point in the gameplay. Another part of the game that I thought was interesting was how the run goes on until you run out of time, it challenges people and incentivizes going for as long as you can. I also thought that the visuals were very cool, everything comes together and fits the general theme of the game well.
+
+5. What parts of the game are tedious? 3 items
+A part of the game that I felt was tedious was the difficulty of it, specifically with the obstacles, as they come basically one at a time and don't offer much of a challenge. There isn't that much variety in the gameplay or a difficulty curve, so the game feels the exact same throughout the entire duration of a run. As well, the consequences of getting hit by an obstacles feel very minimal.
